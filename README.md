@@ -16,10 +16,10 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on <br>🌱 I’m currently learning Rust<br>💬 Ask me about Anything<br>⚡ Fun Fact
+🔭 I’m currently working on <br>🌱 I’m currently learning Rust<br>💬 Ask me about Anything<br>⚡ Roles
 - Tech Enthusiast
 - Backend Developer
-- DevOps
+- DevOps Engineer
 
 ### <p align="center">My Technical Skills</p>
 
