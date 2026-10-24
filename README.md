@@ -16,7 +16,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on HealthCare Company<br>🌱 I’m currently learning System Design<br>💬 Ask me about My Experience<br>⚡ Roles
+🔭 Medical Student that curious about anything<br>🌱 I’m currently learning System Design<br>💬 Ask me about My Experience<br>⚡ Roles
 - Tech Enthusiast
 - Backend Developer
 - DevOps Engineer
